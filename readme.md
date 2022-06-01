@@ -5,8 +5,6 @@ I'm aphsir a young develloper trying to do things ... they usualy fails but I ke
 I mainly code in python ! 🐍
 you can contact me on discord: aphshir#2813
 
-this is a siple website to present myself
-
 # passionate of video games !
 this is the reson I learnt how to code!
 
