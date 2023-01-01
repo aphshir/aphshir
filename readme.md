@@ -14,4 +14,4 @@ starting to crate server to play with my firend taught me a lot about how games 
 # study
 I'm studying in france 
 
-* 10th grade (aka 1ère in france) (with options : maths, numeric and informatic sciences, physic)
+* senior year (high scool)(aka terminale in france) (with options : maths, numeric and informatic sciences)
