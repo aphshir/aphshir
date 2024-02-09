@@ -13,5 +13,5 @@ starting to crate server to play with my firend taught me a lot about how games 
 (please don't start a debate on video games with me. it will be like talking abot politics in a family geathering)
 # study
 I'm studying in france 
-
+* Graduated from highscool with high honors (got an average between 14 and 16). 
 * First year in IT Bachelor in france (BUT Informatique) @ IUT de Metz
