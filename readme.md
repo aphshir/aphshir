@@ -14,4 +14,4 @@ starting to crate server to play with my firend taught me a lot about how games 
 # study
 I'm studying in france 
 
-* senior year (high scool)(aka terminale in france) (with options : maths, numeric and informatic sciences)
+* First year in IT Bachelor in france (BUT Informatique)
