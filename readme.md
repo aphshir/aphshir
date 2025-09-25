@@ -2,8 +2,8 @@ Hi ! 👋
 
 I'm aphsir a young develloper trying to do things ... they usualy fails but I keep going 
 
-I mainly code in python ! 🐍
-you can contact me on discord: aphshir#2813
+~~I mainly code in python ! 🐍~~ NOT ANYMORE !
+you can contact me on discord: aphshir
 
 # passionate of video games !
 this is the reson I learnt how to code!
